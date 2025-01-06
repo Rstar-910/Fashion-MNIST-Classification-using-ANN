@@ -38,13 +38,19 @@ model = keras.Sequential([
     keras.layers.Dense(128, activation="relu"),
     keras.layers.Dense(10, activation="softmax")
 ])
+```
 
 
-'''markdown
-🚀 Features
-Image Classification: Predicts the category of clothing or accessories for a given image.
-Simple ANN Architecture: A feedforward neural network with fully connected layers.
-Accuracy Evaluation: Measures the model's performance on a test dataset.
-Visualization: Displays sample predictions and training metrics.
+### 🚀 Features
+- Image Classification: Predicts the category of clothing or accessories for a given image.
+- Simple ANN Architecture: A feedforward neural network with fully connected layers.
+- Accuracy Evaluation: Measures the model's performance on a test dataset.
+- Visualization: Displays sample predictions and training metrics.
 
+### 🔍 Results
 
+- **Model Accuracy**: The model achieved an accuracy of approximately `XX%` on the test dataset.
+- **Sample Predictions**: The model successfully predicted the categories of test images with high accuracy, as seen in the classification results.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit pull requests.
