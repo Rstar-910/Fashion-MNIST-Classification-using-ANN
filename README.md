@@ -49,7 +49,7 @@ model = keras.Sequential([
 
 ### 🔍 Results
 
-- **Model Accuracy**: The model achieved an accuracy of approximately `XX%` on the test dataset.
+- **Model Accuracy**: The model achieved an accuracy of approximately `88%` on the test dataset.
 - **Sample Predictions**: The model successfully predicted the categories of test images with high accuracy, as seen in the classification results.
 
 ## 🤝 Contributing
